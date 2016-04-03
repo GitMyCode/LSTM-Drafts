@@ -1,0 +1,8 @@
+C:\Users\marma\REPO\LSTM-tuto\lstm-tuto\lstm-tuto\bin\Debug\lstm-tuto.exe.config
+C:\Users\marma\REPO\LSTM-tuto\lstm-tuto\lstm-tuto\bin\Debug\lstm-tuto.exe
+C:\Users\marma\REPO\LSTM-tuto\lstm-tuto\lstm-tuto\bin\Debug\lstm-tuto.pdb
+C:\Users\marma\REPO\LSTM-tuto\lstm-tuto\lstm-tuto\obj\Debug\lstm-tuto.csprojResolveAssemblyReference.cache
+C:\Users\marma\REPO\LSTM-tuto\lstm-tuto\lstm-tuto\obj\Debug\lstm-tuto.exe
+C:\Users\marma\REPO\LSTM-tuto\lstm-tuto\lstm-tuto\obj\Debug\lstm-tuto.pdb
+C:\Users\marma\REPO\LSTM-tuto\lstm-tuto\lstm-tuto\bin\Debug\MathNet.Numerics.dll
+C:\Users\marma\REPO\LSTM-tuto\lstm-tuto\lstm-tuto\bin\Debug\MathNet.Numerics.xml
